@@ -1,1 +1,17 @@
-# Hi, I'm *Rotsteinfuchs*.
+# Hi, I'm Rotsteinfuchs.
+I'm a random guy from Germany.
+I like creating websites with PHP and HTML/CSS.
+I'm currently working with [MCTorn](https://www.mctorn.de) where I create fanzy cinematic Minecraft videos.
+Sometimes I use Python and Java or C++ for my Arduino.
+
+Stuff I like:
+- Firefox
+- Minecraft (mostly redstone and commands) and Prism Launcher
+- DaVinci Resolve (**Free** video editing software)
+- Ubuntu (Linux Distro)
+
+Stuff I don't like:
+- Adobe
+- Apple
+- Microsoft Edge
+- Opera / Opera GX (don't use)
