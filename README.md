@@ -8,6 +8,7 @@ Stuff I like:
 - Firefox
 - Minecraft (mostly redstone and commands) and Prism Launcher
 - DaVinci Resolve (**Free** video editing software)
+- Figma (For website designing)
 - Ubuntu (Linux Distro)
 
 Stuff I don't like:
