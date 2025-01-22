@@ -1,19 +1,20 @@
-# Hi, I'm Rotsteinfuchs.
-I'm a random guy from Germany.
-I like creating websites using HTML/CSS, I'm currently learning NextJS.
-I'm currently working with [MCTorn](https://www.mctorn.de) where I create fanzy cinematic Minecraft videos.
+# Hi, I'm <ins>Rotsteinfuchs</ins>.
+I'm ~a random guy from Germany~ a german developer and designer.<br>
+I like creating websites, and I'm currently learning [NextJS](https://www.nextjs.org/).<br>
+I'm currently working at [MCTorn](https://www.mctorn.de) where I create Minecraft trailers and other videos.<br>
 Sometimes I use Python and Java or C++ for my Arduino.
 
-Stuff I like:
-- Firefox
-- Minecraft (mostly redstone and commands) and Prism Launcher
-- DaVinci Resolve (**Free** video editing software)
-- Figma (For website designing)
-- VSCode
-- Ubuntu (I use ubuntu btw, I switched recently, and I like it👍)
+### Stuff I like:
+- **Firefox**
+- **Minecraft**        (Redstone, commands, data packs)
+- **Prism Launcher**   (Minecraft launcher)
+- **DaVinci Resolve**  (Video editing)
+- **Figma**            (Web design)
+- **VSCode**           (Code editing)
+- **Ubuntu**           (I use Ubuntu btw, I switched recently, and I really like it)
 
-Stuff I don't like:
+### Stuff I don't like:
 - Adobe
 - Apple
-- Microsoft Edge
-- Opera / Opera GX (don't use)
+- Edge
+- Opera
