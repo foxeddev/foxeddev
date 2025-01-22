@@ -1,6 +1,6 @@
 # Hi, I'm Rotsteinfuchs.
 I'm a random guy from Germany.
-I like creating websites with PHP and HTML/CSS.
+I like creating websites using HTML/CSS, I'm currently learning NextJS.
 I'm currently working with [MCTorn](https://www.mctorn.de) where I create fanzy cinematic Minecraft videos.
 Sometimes I use Python and Java or C++ for my Arduino.
 
