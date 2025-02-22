@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rotsteinfuchs.</h1>
 <p align="center">I'm a 14-year-old developer and designer from Germany.</p>
 
-<img src="https://minecraft.wiki/images/Fox_Faceplant.gif" alt="Cute Fox Image" width="100" height="100" align="right" />
+<img src="https://minecraft.wiki/images/Fox_Faceplant.gif" alt="Cute Fox Image" width="150" height="150" align="right" />
 
 ### 💡 I'm learning
 [![NextJS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://www.nextjs.org/)
