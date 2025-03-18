@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://rotsteinfuchs.github.io/">Rotsteinfuchs</a>.</h1>
 <p align="center">I'm a 14-year-old developer and designer from Germany.</p>
 
-<img src="https://minecraft.wiki/images/Fox_Faceplant.gif" alt="Cute Fox Image" width="150" height="150" align="right" />
+<img src="https://minecraft.wiki/images/Fox_Faceplant.gif" alt="Cute Fox Image" width="300" height="300" align="right" />
 
 ### 💡 I'm learning
 
@@ -16,5 +16,5 @@
 
 ### 📬 Contact me
 
-[![Discord](https://img.shields.io/badge/Discord:-@Rotsteinfuchs-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1100754798292258828)
-[![E-Mail](https://img.shields.io/badge/E--Mail:-rotsteinfuchs@gmail.com-F2A60C?style=for-the-badge&logo=gmail&logoColor=white)](https://discord.com/users/1100754798292258828)
+![Discord](https://img.shields.io/badge/Discord:-@Rotsteinfuchs-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![E-Mail](https://img.shields.io/badge/E--Mail:-rotsteinfuchs@gmail.com-F2A60C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rotsteinfuchs@gmail.com)
