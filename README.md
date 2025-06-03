@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="">Foxed</a>!</h1>
+<h1 align="center">Hi, I'm <a href="/">Foxed</a>!</h1>
 <p align="center">I'm a 15-year-old developer and designer from Germany.</p>
 
 <img src="https://minecraft.wiki/images/Fox_Faceplant.gif" alt="Cute Fox Image" width="25%" align="right" />
