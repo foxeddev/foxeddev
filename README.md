@@ -1,20 +1,33 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/FoxedDev/">Foxed</a>!</h1>
-<p align="center">I'm a 15-year-old developer and designer from Germany.</p>
+<h1 align="center">👋 Hi, I'm  <a href="">Foxed</a>.</h1>
+<p align="center">I'm a 15 year old developer and designer from Germany.</p>
 
-<img src="https://minecraft.wiki/images/Fox_Faceplant.gif" alt="Cute Fox Image" width="25%" align="right" />
+<img  src="https://minecraft.wiki/images/Fox_Faceplant.gif" alt="Cute fox doing cute stuff" width="40%" align="right" />
 
-### 💡 I'm learning
+### 🌱 I'm currently learning
 
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) <br>
-[![Beet](https://img.shields.io/badge/Beet-B70C38?style=for-the-badge)](https://github.com/mcbeet/beet)
+* React
+* NextJS
+* TailwindCSS
 
-### ⭐️ Skills
+### 🌟 Skills
 
-![Skills](https://skillicons.dev/icons?i=linux,windows,bash,css,js,html,php,py,java,arduino,codepen,git,github,vscode,md,figma,svg&perline=10)  
-[![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)](https://www.blackmagicdesign.com/products/davinciresolve)
-[![Flashback_Mod](https://img.shields.io/badge/Flashback_Mod-FAFAFA?style=for-the-badge)](https://modrinth.com/mod/flashback)
+| Language   | Skill Level  |
+| ---------- | ------------ |
+| CSS        | `[🟥🟧🟨🟩]` |
+| JavaScript | `[🟥🟧⬜⬜]` |
+| Python     | `[🟥⬜⬜⬜]` |
+| Java       | `[🟥⬜⬜⬜]` |
 
-### 📬 Contact me
+### 💻 Tech Stack
 
-![Discord](https://img.shields.io/badge/Discord:-@Rotsteinfuchs-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+OS: [Arch Linux](https://archlinux.org/)  
+WM: [HyDE](https://hydeproject.pages.dev/) ([Hyprland](https://hypr.land/))  
+Browser: [Zen Browser](https://zen-browser.app/) ([Firefox](https://www.firefox.com/) based)  
+Editor: [Visual Studio Code](https://code.visualstudio.com/)  
+Minecraft Launcher: [Prism Launcher](https://prismlauncher.org/)
+
+### 📬 Contact
+
+Discord: [@FoxedDev]()
+
+<sub>Made with 💜 by Foxed.</sub>
