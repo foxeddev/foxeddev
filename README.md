@@ -5,9 +5,9 @@
 
 ### 🌱 I'm currently learning
 
-* React
-* NextJS
-* TailwindCSS
+React  
+NextJS  
+TailwindCSS  
 
 ### 🌟 Skills
 
