@@ -1,10 +1,6 @@
-<div align="center">
-
-# Hi, I'm [Foxed](https://foxeddev.vercel.app/).
+# Hi, I'm [Foxed](https://foxed.dev/).
 
 I'm a Minecraft data pack creator and web developer from Germany.
-
-</div>
 
 <img src="https://minecraft.wiki/images/Fox_Faceplant.gif" alt="Cute fox doing cute stuff" width="25%" align="right" />
 
